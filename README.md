@@ -71,7 +71,8 @@ for (int episode = 0; episode < 10000; episode++) {
 This project is open-source and licensed under the MIT License.
 
 ## Author
-[Your Name] - Passionate about AI and machine learning.
+Ahmed Ibrahim - Passionate about AI and machine learning.
+Feb 8, 2025
 
 ---
 
